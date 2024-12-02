@@ -1,3 +1,6 @@
 data/
 data_admin/
 variances/
+*.npy
+*.pth
+*.nc
